@@ -776,6 +776,7 @@ input[type='checkbox'] {
 	border: none;
 	color: #fff;
 	font-size: 2rem;
+	margin-right: 0.2em;
 }
 
 .navbar-custom button[aria-expanded='false'] .navbar-toggler-awesome.fas.fa-times{
